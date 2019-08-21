@@ -1,10 +1,5 @@
 # Data-Structures
--if everyday == learn:
-
----jobAtGoogle = True
-
-
-
+google ain't that far..!
 
 > August 21, 2019
 + Linked Lists
