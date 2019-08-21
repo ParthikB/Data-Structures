@@ -1,6 +1,9 @@
 # Data-Structures
-if everyday == learn:
-  jobAtGoogle = True
+-if everyday == learn:
+
+---jobAtGoogle = True
+
+
 
 
 > August 21, 2019
