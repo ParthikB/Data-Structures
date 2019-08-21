@@ -1,9 +1,9 @@
 # Data-Structures
-Working my way up this ladder..!
-
+if everyday == learn:
+  jobAtGoogle = True
 
 
 > August 21, 2019
-+ Learned Linked Lists
++ Linked Lists
 + Stacks
 + Queues
