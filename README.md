@@ -5,3 +5,6 @@
 + Linked Lists
 + Stacks
 + Queues
+
+> August 22, 2019
++ Binary Search
