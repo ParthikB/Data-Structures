@@ -14,3 +14,6 @@
 + Selection Sort
 + Bubble Sort
 + Quick Sort
+
+> August 26, 2019
++ Hash-maps
