@@ -17,3 +17,6 @@
 
 > August 26, 2019
 + Hash-maps
+
+> August 27, 2019
++ Binary Search Tree
