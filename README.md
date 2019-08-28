@@ -20,3 +20,7 @@
 
 > August 27, 2019
 + Binary Search Tree
+
+> August 28, 2019
++ Heaps
++ Red-Black Trees
