@@ -7,7 +7,7 @@
 + Queues
 
 > August 22, 2019
-+ Binary Search
++ Binary Tree
 + Recursion
 
 > August 23, 2019
