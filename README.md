@@ -26,4 +26,6 @@
 + Red-Black Trees
 + Graphs
 
+> September 4, 2019
++ Binary Tree extension (deepest node)
 
