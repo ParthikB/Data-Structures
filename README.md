@@ -27,6 +27,6 @@
 + Graphs
 
 > September 4, 2019
-+ Binary Tree extension (deepest node)
++ Binary Tree extension (deepest node).
 
-.
+
